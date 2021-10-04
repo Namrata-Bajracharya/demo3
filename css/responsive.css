@@ -1,0 +1,11 @@
+@media only screen and (max-width: 800px) {
+     body{align-items: center;}
+    .con{margin-bottom: 45px;}
+    .carousel-item{padding: 0;}
+    .content{display: none;}
+    .nav-item{margin-top: 6px;}
+    .nav-item:hover{
+        background-color: var(--b);
+    }
+    .bann-quote{margin-top: 50px;margin-left: -10px;}
+}
